@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Click</string>
+    <string name="str0">Hello Click</string>
+    <string name="str1">Hello World, what are you doing?</string>
+    <string name="str2">Increment Size</string>
+    <string name="str3">Go to activity 2</string>
+</resources>
